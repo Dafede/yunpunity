@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 6b3dc1925bf1c714baacb96ba6c176c5
+timeCreated: 1457367970
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cilindro
+    100002: Cilindro_001
+    100004: Cube
+    100006: Cube_001
+    100008: Esfera
+    100010: Esfera_001
+    100012: Esfera_002
+    100014: Esfera_003
+    100016: Esfera_004
+    100018: Esfera_005
+    100020: Esfera_006
+    100022: Esfera_007
+    100024: Esfera_008
+    100026: Esfera_009
+    100028: Esfera_010
+    100030: Esfera_011
+    100032: Esfera_012
+    100034: Esfera_013
+    100036: //RootNode
+    100038: Torus
+    100040: Torus_001
+    100042: Torus_002
+    100044: Torus_003
+    100046: Torus_004
+    100048: Torus_005
+    100050: Torus_006
+    100052: Torus_007
+    100054: topings
+    100056: tornillos
+    400000: Cilindro
+    400002: Cilindro_001
+    400004: Cube
+    400006: Cube_001
+    400008: Esfera
+    400010: Esfera_001
+    400012: Esfera_002
+    400014: Esfera_003
+    400016: Esfera_004
+    400018: Esfera_005
+    400020: Esfera_006
+    400022: Esfera_007
+    400024: Esfera_008
+    400026: Esfera_009
+    400028: Esfera_010
+    400030: Esfera_011
+    400032: Esfera_012
+    400034: Esfera_013
+    400036: //RootNode
+    400038: Torus
+    400040: Torus_001
+    400042: Torus_002
+    400044: Torus_003
+    400046: Torus_004
+    400048: Torus_005
+    400050: Torus_006
+    400052: Torus_007
+    400054: topings
+    400056: tornillos
+    2300000: Cilindro
+    2300002: Cilindro_001
+    2300004: Cube
+    2300006: Cube_001
+    2300008: Esfera
+    2300010: Esfera_001
+    2300012: Esfera_002
+    2300014: Esfera_003
+    2300016: Esfera_004
+    2300018: Esfera_005
+    2300020: Esfera_006
+    2300022: Esfera_007
+    2300024: Esfera_008
+    2300026: Esfera_009
+    2300028: Esfera_010
+    2300030: Esfera_011
+    2300032: Esfera_012
+    2300034: Esfera_013
+    2300036: Torus
+    2300038: Torus_001
+    2300040: Torus_002
+    2300042: Torus_003
+    2300044: Torus_004
+    2300046: Torus_005
+    2300048: Torus_006
+    2300050: Torus_007
+    2300052: topings
+    2300054: tornillos
+    3300000: Cilindro
+    3300002: Cilindro_001
+    3300004: Cube
+    3300006: Cube_001
+    3300008: Esfera
+    3300010: Esfera_001
+    3300012: Esfera_002
+    3300014: Esfera_003
+    3300016: Esfera_004
+    3300018: Esfera_005
+    3300020: Esfera_006
+    3300022: Esfera_007
+    3300024: Esfera_008
+    3300026: Esfera_009
+    3300028: Esfera_010
+    3300030: Esfera_011
+    3300032: Esfera_012
+    3300034: Esfera_013
+    3300036: Torus
+    3300038: Torus_001
+    3300040: Torus_002
+    3300042: Torus_003
+    3300044: Torus_004
+    3300046: Torus_005
+    3300048: Torus_006
+    3300050: Torus_007
+    3300052: topings
+    3300054: tornillos
+    4300000: Esfera_013
+    4300002: Esfera_012
+    4300004: Esfera_011
+    4300006: Esfera_010
+    4300008: Esfera_009
+    4300010: Esfera_008
+    4300012: Esfera_007
+    4300014: Esfera_006
+    4300016: Esfera_005
+    4300018: Esfera_004
+    4300020: Esfera_003
+    4300022: Esfera_002
+    4300024: Esfera_001
+    4300026: Esfera
+    4300028: Cilindro_001
+    4300030: Cilindro
+    4300032: Torus_007
+    4300034: Torus_006
+    4300036: Torus_004
+    4300038: Torus_005
+    4300040: Cube_001
+    4300042: Torus_003
+    4300044: Torus_002
+    4300046: Torus_001
+    4300048: Torus
+    4300050: Cube
+    4300052: tornillos
+    4300054: topings
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
