@@ -5,10 +5,12 @@ public class InteractableObjectWatcher : MonoBehaviour {
 
 	public float interactionDistance = 1.25f;
 	public Camera camera;
+	public GameObject doorIcon;
 
 	private GameObject lastGameObjectInFocus = null;
 
 	void Update () {
+		doorIcon.SetActive (false);
 		// Will look for somethign in sight
 		RaycastHit hit = new RaycastHit ();
 		if (Physics.Raycast(camera.ScreenPointToRay(Input.mousePosition), out hit)) {
@@ -25,6 +27,10 @@ public class InteractableObjectWatcher : MonoBehaviour {
 
 				// save the object as the last object in focus
 				lastGameObjectInFocus = hit.transform.gameObject;
+
+				if (lastGameObjectInFocus.tag == "Door") {
+					doorIcon.SetActive (true);
+				} 
 
 				// if the user clicks, do the action
 				if (Input.GetMouseButtonDown (0)) {
