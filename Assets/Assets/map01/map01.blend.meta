@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: da4345a303870e444b35b608a8ac8cb4
-timeCreated: 1459627959
+guid: 753d677d9e25b674aad9bc92745f65ca
+timeCreated: 1459971446
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -50,8 +50,16 @@ ModelImporter:
     100084: Cube_041
     100086: Cube_042
     100088: Cube_043
-    100090: Escaleras
-    100092: //RootNode
+    100090: Cylinder
+    100092: Cylinder_001
+    100094: Cylinder_002
+    100096: Escaleras
+    100098: Escaleras_001
+    100100: //RootNode
+    100102: Torus
+    100104: Torus_001
+    100106: Torus_002
+    100108: Torus_003
     400000: Abollador
     400002: Cube
     400004: Cube_001
@@ -97,8 +105,16 @@ ModelImporter:
     400084: Cube_041
     400086: Cube_042
     400088: Cube_043
-    400090: Escaleras
-    400092: //RootNode
+    400090: Cylinder
+    400092: Cylinder_001
+    400094: Cylinder_002
+    400096: Escaleras
+    400098: Escaleras_001
+    400100: //RootNode
+    400102: Torus
+    400104: Torus_001
+    400106: Torus_002
+    400108: Torus_003
     2300000: Abollador
     2300002: Cube
     2300004: Cube_001
@@ -144,7 +160,15 @@ ModelImporter:
     2300084: Cube_041
     2300086: Cube_042
     2300088: Cube_043
-    2300090: Escaleras
+    2300090: Cylinder
+    2300092: Cylinder_001
+    2300094: Cylinder_002
+    2300096: Escaleras
+    2300098: Escaleras_001
+    2300100: Torus
+    2300102: Torus_001
+    2300104: Torus_002
+    2300106: Torus_003
     3300000: Abollador
     3300002: Cube
     3300004: Cube_001
@@ -190,7 +214,15 @@ ModelImporter:
     3300084: Cube_041
     3300086: Cube_042
     3300088: Cube_043
-    3300090: Escaleras
+    3300090: Cylinder
+    3300092: Cylinder_001
+    3300094: Cylinder_002
+    3300096: Escaleras
+    3300098: Escaleras_001
+    3300100: Torus
+    3300102: Torus_001
+    3300104: Torus_002
+    3300106: Torus_003
     4300000: Cube_043
     4300002: Cube_042
     4300004: Cube_041
@@ -237,6 +269,14 @@ ModelImporter:
     4300086: Cube_001
     4300088: Cube
     4300090: Escaleras
+    4300092: Cylinder_001
+    4300094: Cylinder_002
+    4300096: Cylinder
+    4300098: Escaleras_001
+    4300100: Torus_001
+    4300102: Torus_002
+    4300104: Torus_003
+    4300106: Torus
     7400000: Default Take
     9500000: //RootNode
   materials:

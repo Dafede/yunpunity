@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 4eea5fc05553a1043af3bf8e9c36acc9
+timeCreated: 1461855325
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: boundingBox
+    100002: boundingBox_001
+    100004: boundingBox_002
+    100006: Cube
+    100008: leftLeftWindow_000
+    100010: leftLeftWindow_001
+    100012: leftLeftWindow_002
+    100014: leftRightWindow_000
+    100016: leftRightWindow_001
+    100018: leftRightWindow_002
+    100020: mainWindowCenter
+    100022: mainWindowLeft
+    100024: mainWindowRight
+    100026: outWallClassroom
+    100028: //RootNode
+    100030: realWall
+    100032: rightLeftWindow_000
+    100034: rightLeftWindow_001
+    100036: rightLeftWindow_002
+    100038: rightRightWindow_000
+    100040: rightRightWindow_001
+    100042: rightRightWindow_002
+    100044: twoWindowsLeft_000
+    100046: twoWindowsLeft_001
+    100048: twoWindowsLeft_002
+    100050: twoWindowsRight_000
+    100052: twoWindowsRight_001
+    100054: twoWindowsRight_002
+    100056: twoWindowTogheterBK
+    400000: boundingBox
+    400002: boundingBox_001
+    400004: boundingBox_002
+    400006: Cube
+    400008: leftLeftWindow_000
+    400010: leftLeftWindow_001
+    400012: leftLeftWindow_002
+    400014: leftRightWindow_000
+    400016: leftRightWindow_001
+    400018: leftRightWindow_002
+    400020: mainWindowCenter
+    400022: mainWindowLeft
+    400024: mainWindowRight
+    400026: outWallClassroom
+    400028: //RootNode
+    400030: realWall
+    400032: rightLeftWindow_000
+    400034: rightLeftWindow_001
+    400036: rightLeftWindow_002
+    400038: rightRightWindow_000
+    400040: rightRightWindow_001
+    400042: rightRightWindow_002
+    400044: twoWindowsLeft_000
+    400046: twoWindowsLeft_001
+    400048: twoWindowsLeft_002
+    400050: twoWindowsRight_000
+    400052: twoWindowsRight_001
+    400054: twoWindowsRight_002
+    400056: twoWindowTogheterBK
+    2300000: boundingBox
+    2300002: boundingBox_001
+    2300004: boundingBox_002
+    2300006: Cube
+    2300008: leftLeftWindow_000
+    2300010: leftLeftWindow_001
+    2300012: leftLeftWindow_002
+    2300014: leftRightWindow_000
+    2300016: leftRightWindow_001
+    2300018: leftRightWindow_002
+    2300020: mainWindowCenter
+    2300022: mainWindowLeft
+    2300024: mainWindowRight
+    2300026: realWall
+    2300028: rightLeftWindow_000
+    2300030: rightLeftWindow_001
+    2300032: rightLeftWindow_002
+    2300034: rightRightWindow_000
+    2300036: rightRightWindow_001
+    2300038: rightRightWindow_002
+    2300040: twoWindowTogheterBK
+    3300000: boundingBox
+    3300002: boundingBox_001
+    3300004: boundingBox_002
+    3300006: Cube
+    3300008: leftLeftWindow_000
+    3300010: leftLeftWindow_001
+    3300012: leftLeftWindow_002
+    3300014: leftRightWindow_000
+    3300016: leftRightWindow_001
+    3300018: leftRightWindow_002
+    3300020: mainWindowCenter
+    3300022: mainWindowLeft
+    3300024: mainWindowRight
+    3300026: realWall
+    3300028: rightLeftWindow_000
+    3300030: rightLeftWindow_001
+    3300032: rightLeftWindow_002
+    3300034: rightRightWindow_000
+    3300036: rightRightWindow_001
+    3300038: rightRightWindow_002
+    3300040: twoWindowTogheterBK
+    4300000: mainWindowRight
+    4300002: boundingBox_002
+    4300004: leftRightWindow_002
+    4300006: leftLeftWindow_002
+    4300008: rightLeftWindow_002
+    4300010: rightRightWindow_002
+    4300012: mainWindowCenter
+    4300014: boundingBox_001
+    4300016: rightRightWindow_000
+    4300018: rightLeftWindow_000
+    4300020: leftLeftWindow_000
+    4300022: leftRightWindow_000
+    4300024: mainWindowLeft
+    4300026: boundingBox
+    4300028: leftRightWindow_001
+    4300030: leftLeftWindow_001
+    4300032: rightLeftWindow_001
+    4300034: rightRightWindow_001
+    4300036: Cube
+    4300038: twoWindowTogheterBK
+    4300040: realWall
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
